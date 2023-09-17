@@ -52,9 +52,6 @@ Just make sure to have your page tables inside the driver's .data section, and t
 Everyone but cheaters, especially DMA cheaters. This technology can be used by anti-cheats to protect their games. The only requirement is to lock the protect pages in RAM
 by using VirtualLock (or NtVirtualLock in kernel, not exported).
 
-### Why are you posting this?
-I hate DMA providers, have a good rest of your lives without your pasteware :)
-
 ### Contact me
 If you are a researcher or a representative for an anti-cheat company, and are interested in working with, or hiring me, feel free to contact me on my brand new email:
 cutecatsandvirtualmachines@gmail.com
